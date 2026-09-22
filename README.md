@@ -1,6 +1,6 @@
 # Hi, I'm Amit Padhan 👋
 
-Full-stack developer and Linux/Android enthusiast. This profile is dedicated to web applications, real-time tools, and Android firmware documentation.
+My primary focus is **cybersecurity**. This account is dedicated to development projects, tools, and experiments.
 
 - 🔒 **Primary Profile:** [@amitpadhan525](https://github.com/amitpadhan525)
 - 🌐 **Portfolio:** [amitpadhan525.github.io](https://amitpadhan525.github.io/)
