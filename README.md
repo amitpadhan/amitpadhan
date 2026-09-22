@@ -6,17 +6,6 @@ Full-stack developer and Linux/Android enthusiast. This profile is dedicated to 
 
 ---
 
-### 🚀 Featured Projects
-
-- [**tic-tac-toe-multiplayer**](https://github.com/amitpadhan/tic-tac-toe-multiplayer) — Real-time multiplayer Tic-Tac-Toe web app built with React, Socket.IO, WebRTC, and Minimax AI.
-- [**akif-flashing-guide**](https://github.com/amitpadhan/akif-flashing-guide) — Project Infinity-X (AOSP) flashing and restoration guide for Samsung Galaxy M34 5G.
-- [**larry-flashing-guide**](https://github.com/amitpadhan/larry-flashing-guide) — LineageOS installation guide and anti-brick safeguards for OnePlus Nord CE 3 Lite 5G.
-- [**internet-speed-test**](https://github.com/amitpadhan/internet-speed-test) — Lightweight, client-side network speed and latency tester.
-- [**internet-data-waster**](https://github.com/amitpadhan/internet-data-waster) — Bandwidth saturation and network throughput testing utility.
-- [**weather-info**](https://github.com/amitpadhan/weather-info) — Minimalist weather dashboard with real-time atmospheric metrics and forecasts.
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
